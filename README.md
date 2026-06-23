@@ -94,9 +94,7 @@ gripper_technique_test/
 ├── rmpflow/
 │   ├── m0609_description.yaml
 │   ├── m0609_rmpflow_common.yaml
-│   ├── m0609_rmpflow_controller.py
-│   ├── m0609_pick_place_controller.py
-│   └── m0609_pick_place_controller_surface.py
+│   └── m0609_rmpflow_controller.py
 ├── doosan-robot2/
 │   ├── urdf/
 │   └── usd/
